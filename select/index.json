@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "哀愁トレイン",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-05T14:16:21.772682Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "哀愁トレイン",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_哀愁トレイン_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "哀愁トレイン",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_哀愁トレイン_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aishū Train [哀愁トレイン]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/03_Aishū_Train_[哀愁トレイン]_sakanaction.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "哀愁トレイン",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_哀愁トレイン_サカナクション.txt"
+    }
+  ]
+}
